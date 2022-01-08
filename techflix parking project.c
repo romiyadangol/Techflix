@@ -74,7 +74,7 @@ struct tm* datetime()//at=datetime();
         /* scan the year, month and year from the input string */
 
 return ct ;
-
+}
 /*----------------------------------------------------Arival record of vechile--------------------------------------------------------------------------------*/
 int record(int veh,int type,int row,int col, struct tm *ct )//function declaration
 {

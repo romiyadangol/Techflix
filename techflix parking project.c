@@ -1,4 +1,4 @@
- /* Vehicle parking program */
+
 
 #include <stdio.h>
 #include <conio.h>

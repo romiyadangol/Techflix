@@ -261,7 +261,7 @@ int historyrec(int value)
 	}
 	else if(value==3)
 	{
-  		fp = fopen("D//finesheet.dat", "r");
+  		fp = fopen("D://finesheet.dat", "r");
 	}	
 	else
 	{

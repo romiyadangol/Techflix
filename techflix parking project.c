@@ -546,7 +546,8 @@ void display( )
 /*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 int main( )
 {
-	rintf("\n\t\t\---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n");
+	
+	printf("\n\t\t\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\n");
 	printf("\t\t\xdb                                               \xdb\n");
 	printf("\t\t\xdb       =============================           \xdb\n");
 	printf("\t\t\xdb        VEHICLE PARKING MANAGEMENT             \xdb\n");
@@ -554,15 +555,17 @@ int main( )
 	printf("\t\t\xdb                                               \xdb\n");
 	printf("\t\t\xdb            Brought To You By                  \xdb\n");
 	printf("\t\t\xdb                                               \xdb\n");
+	printf("\t\t\xdb                 TECHFLIX                      \xdb\n");
 	printf("\t\t\xdb                                               \xdb\n");
-	printf("\t\t\xdb               ~TECHFLIX~                      \xdb\n");
 	printf("\t\t\xdb                                               \xdb\n");
-	printf("\t\t\--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n\n");
+	printf("\t\t\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\n\n\n");
 	printf(" \n\t Press Any Key To Continue:");
-	
-	return 0;	
+
+	getch();
     system("cls");
     login();
+	
+	
 	int choice, type, number, row = 0, col = 0 ;
 	int i, tarr[2] ;
 	int finish = 1 ;

@@ -1,3 +1,1 @@
-# Techflix
-# Parking_System
-#Parking_System Project in c
+# Techflix parking system project in c
